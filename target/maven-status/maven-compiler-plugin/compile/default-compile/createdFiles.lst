@@ -1,0 +1,5 @@
+com\currencyquotation\controller\CurrencyQuotationController.class
+com\currencyquotation\CurrencyQuotation\App.class
+com\currencyquotation\dao\CurrencyQuotationDAO.class
+com\currencyquotation\dao\BasicDAO.class
+com\currencyquotation\CurrencyQuotation\HelloJavaDB.class

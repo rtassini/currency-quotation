@@ -83,12 +83,12 @@ public class CurrencyQuotationController {
 		}
 	}
 	
-	public void loadFile(){
+	public void loadFile(String fileName){
 		Scanner scanner = null;
 		DateFormat df = new SimpleDateFormat("dd/MM/yyyy");
 		
 		try {
-			scanner = new Scanner(new FileReader("\\home\\file\\20151204.csv"))
+			scanner = new Scanner(new FileReader("\\home\\file\\" + fileName))
 					.useDelimiter(";|\\n");
 		
 			while (scanner.hasNext()) {
