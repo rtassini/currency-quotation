@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 06 16:57:14 BRST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0151-78a7-b026-000003243c30 
+on database directory C:\home\DB\Quotation with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/Rodrigo/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=I:\Dev\workspace_diveo\CurrencyQuotation
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
